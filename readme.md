@@ -1,5 +1,5 @@
 # Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04 
-
+```
 sudo apt update
 sudo apt upgrade
 
@@ -26,3 +26,4 @@ python3 -m venv venv
 source venv/bin/activate
 
 pip install flask
+```
